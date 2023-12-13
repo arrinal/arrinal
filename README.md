@@ -5,7 +5,9 @@
 
 💬 Ask me about iOS development! I'm always up for discussing new technologies and strategies to improve app design and functionality.
 
-📫 How to reach me: arrinalsf@gmail.com
+📫 How to reach me: arrinalsf@gmail.com <br>
+🧑‍💻 Leetcode: https://leetcode.com/arrinal <br>
+🧑‍💻 HackerRank: https://www.hackerrank.com/profile/arrinal
 
 ⚡ Fun fact: When I'm not coding, I enjoy **Valorant** to cure my headache 🥳
 <!--
