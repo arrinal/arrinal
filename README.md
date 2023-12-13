@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there I'm Arrinal 👋
+🔭 I'm a passionate developer with a keen interest in iOS development. Whether I'm delving into Swift for mobile app perfection, I love the thrill of tackling tech challenges and learning new things.
 
+🌱 Currently, I'm diving deeper into iOS development, exploring ways to enhance app performance and user interaction. My journey includes mastering the balance between the rich capabilities of UIKit and the innovative, declarative approach of SwiftUI.
+
+💬 Ask me about iOS development! I'm always up for discussing new technologies and strategies to improve app design and functionality.
+
+📫 How to reach me: arrinalsf@gmail.com
+
+⚡ Fun fact: When I'm not coding, I enjoy **Valorant** to cure my headache 🥳
 <!--
 **arrinal/arrinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
