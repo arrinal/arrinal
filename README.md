@@ -5,10 +5,8 @@
 
 💬 Ask me about iOS development! I'm always up for discussing new technologies and strategies to improve app design and functionality.
 
-📫 How to reach me: arrinalsf@gmail.com <br>
+📫 How to reach me: gmail@arrinal.com <br>
 🧑‍💻 Leetcode: https://leetcode.com/arrinal
-
-⚡ Fun fact: When I'm not coding, I enjoy **Valorant** to cure my headache 🥳
 <!--
 **arrinal/arrinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
